@@ -1,2 +1,1 @@
-Game 
-Link:https://himanshugame2.netlify.app/
+Game : https://himanshugame2.netlify.app/
